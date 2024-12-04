@@ -9,7 +9,7 @@ using namespace esphome;
 namespace esphome {
 namespace daikin_s21 {
 
-#define SETPOINT_MIN 18
+#define SETPOINT_MIN 16
 #define SETPOINT_MAX 32
 #define SETPOINT_STEP 0.5f
 
